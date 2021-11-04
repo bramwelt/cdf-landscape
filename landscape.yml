@@ -729,6 +729,9 @@ landscape:
             logo: eastchinanormaluniversity.svg
             enduser: true
             crunchbase: https://www.crunchbase.com/organization/east-china-normal-university
+      - subcategory:
+        name: S2
+        items:
           - item:
             name: Demo
             homepage_url: https://www.google.com
