@@ -729,3 +729,13 @@ landscape:
             logo: eastchinanormaluniversity.svg
             enduser: true
             crunchbase: https://www.crunchbase.com/organization/east-china-normal-university
+          - item:
+            name: Demo
+            homepage_url: https://www.google.com
+            logo: 1.svg
+            extra:
+              x: bb
+              'y': aa
+              z: http://google.com
+            organization:
+              name: test
